@@ -1,0 +1,23 @@
+Misura 45 radi, tolleranze su viti passante colletto su numeri interi 2/10 in piu nominale di tolleranza, + 1/10 + 2/10,  0 a -5 centesimi parte titanio, Sezione assi dei fori, posizionamemto fori assi x e y per i fori.
+Mettere gli uguali per indicare il centro di una quota.
+Punta foratura metallo 118 gradi standard non quotare
+Accoppiamenti di 3 tipi libero incerto forzato
+Foro passante da 3.1 o 3 
+Elenco parti fatto con excel e numerazione pezzi
+Mettere assi ai fori
+
+Codifica:
+
+mws facility
+linea che fa richiesta 
+numero progressivo di progetto per la linea
+a assieme
+b particolare
+g sottoassieme 
+p parti
+
+numero progressivo per le parti ed assiemi
+
+
+File excel con codici e numero lista parti con quantita 
+Fare sezioni 
